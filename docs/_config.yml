@@ -22,7 +22,7 @@ title: Project Discere
 email: mzuber@umich.org
 description: >- # this means to ignore newlines until "baseurl:"
   Project Discere is an individual study project that I am developing
-  at the University of Michigan addressing video games and education sociology.
+  at the University of Michigan addressing video games and analytics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://projectdiscere.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mzuberLIVE
