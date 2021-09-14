@@ -31,10 +31,16 @@ This week I compiled the 32 papers below that were potentially related to my res
 30. http://radix.www.upenn.edu/learninganalytics/ryanbaker/OwenBakerLAGames.pdf
 31. https://www-proquest-com.proxy.lib.umich.edu/docview/2208647612?OpenUrlRefId=info:xri/sid:primo&accountid=14667
 32. https://www-proquest-com.proxy.lib.umich.edu/publiccontent/docview/2063390849?pq-origsite=primo
+33. https://journals-sagepub-com.proxy.lib.umich.edu/doi/full/10.1177/1473871617722040
 
 I then read all the "abstract" sections of the papers and compiled a new list of only relevant articles as below:
-1. https://dl-acm-org.proxy.lib.umich.edu/doi/pdf/10.1145/2556288.2557317
-2. https://www.sciencedirect.com/science/article/pii/S0097849313001891?casa_token=rFeuygvba8wAAAAA:GkXeLu_VHFcvX6tbFZKifvGhnwj3LmIF2Hyq56i73O2rDggQ2kMF9h_4XnRDtSYBzdNpqa0TZw
-3. http://www.gameaipro.com/GameAIPro2/GameAIPro2_Chapter39_Analytics-Based_AI_Techniques_for_a_Better_Gaming_Experience.pdf
-4. https://www-proquest-com.proxy.lib.umich.edu/docview/2208647612?OpenUrlRefId=info:xri/sid:primo&accountid=14667
-5. https://www-proquest-com.proxy.lib.umich.edu/publiccontent/docview/2063390849?pq-origsite=primo
+1. A User Study of Different Gameplay Visualizations: https://dl-acm-org.proxy.lib.umich.edu/doi/pdf/10.1145/2556288.2557317
+    Summary: This article breaks down how Heatmaps can be used by players and how players used these visualizations
+2. PLATO: A visual analytics system for gameplay data: https://www.sciencedirect.com/science/article/pii/S0097849313001891?casa_token=rFeuygvba8wAAAAA:GkXeLu_VHFcvX6tbFZKifvGhnwj3LmIF2Hyq56i73O2rDggQ2kMF9h_4XnRDtSYBzdNpqa0TZw
+    Summary: Talks about PLATO, which is a system that is primarily intended for game analysts to explore and gain insights about the player behavior that, in turn, help to improve the player experience and inform game design. It also showcases numerous visualization methods and discusses their case studies with four different games to illustrate how the various features of PLATO can be applied to the analysis of gameplay data.
+3. Analytics-Based AI Techniques for a Better Gaming Experience: http://www.gameaipro.com/GameAIPro2/GameAIPro2_Chapter39_Analytics-Based_AI_Techniques_for_a_Better_Gaming_Experience.pdf
+    Summary: This article talks about the types of analytics you can take in a game, and also discusses adaptive techniques games that already exist have used.
+4. Introduction to the special issue on visual game analytics: https://journals-sagepub-com.proxy.lib.umich.edu/doi/full/10.1177/1473871617722040
+    Summary: Discusses the challenges of visual game analytics and some of the benefits presented by different analytics.
+5. Perfecting A Video Game with Game Metrics: https://www-proquest-com.proxy.lib.umich.edu/publiccontent/docview/2063390849?pq-origsite=primo
+    Summary: Discusses the "perfect" game, categorizes metrics for performance, and discusses handling when players stay in one spot too long
