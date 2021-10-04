@@ -15,5 +15,5 @@ Time Log:
 <br>Thursday: 0
 <br>Friday: 2 hours- Photon work
 <br>Saturday: 0
-<br>Sunday: 4 hours- 
+<br>Sunday: 4 hours- Bug Fixes, AI to play against
 <br>Monday: 5 hours
