@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Technical Experiment #3"
-date:   2021-09-29 17:02:41 -0400
+date:   2021-10-05 17:02:41 -0400
 categories: jekyll update
 ---
 This week I started by sitting down with Nathan Hanish from Stardock. On Tuesday and Wednesday I spent roughly an hour preparing questions for the 15 minute interview. During the interview I asked him many questions relating to analytics and how they are used in the industry and asked him if he had any suggestions relating to the topic. He said there are 2 groups that look at analytics, the marketing team and developers. He said he has done work with increasing and decreasing the difficulty of the AI but nothing in terms of map changes while players are playing. He will review data and send out updates if they find players are dying in one concentrated spot or something needs to be addressed. One recommendation he gave was to tell players upfront that the AI is using player data, via a button that players click to consent to feedback being recorded. Players can be very sensitive to AI, when it feels as if it is cheating. Another tip he gave was to make sure players are challenged and engaged, some implementations of what I am working on could be very frustrating to players.
