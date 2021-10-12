@@ -19,7 +19,7 @@ I started by working on the map, as without it I will have a harder time testing
 
 I also want to introduce random loot drops. These will be deployed from the alien space ships. If the game detects that inhabitants aren't looting these crates then there will be a chance an alien drops a loot flare on death. This flare will allow the player to summon a loot drop at their location. 
 
-Lastly, I plan to monitor where aliens are dying. If aliens are dying in an area, we will change the spawn location to try and get aliens to enter a new area and not push the same place. If even after the spawn point changes aliens continue to die in a certain spot one of the 3 space ships above will crash into the planet. Maybe a inhabitant cannon from off the map can be seen shooting it down. The ship will crash into the spot and add an obstacle to the NavMesh to keep AI players away and will block the area so real players will not be able to go there either. 
+Lastly, I plan to monitor where aliens are dying. If aliens are dying in an area, the game will change the spawn location to try and get aliens to enter a new area and not push the same place. If even after the spawn point changes aliens continue to die in a certain spot one of the 3 space ships above will crash into the planet. Maybe a inhabitant cannon from off the map can be seen shooting it down. The ship will crash into the spot and add an obstacle to the NavMesh to keep AI players away and will block the area so real players will not be able to go there either. 
 
 <br>Time Log:
 <br>Tuesday: 0
