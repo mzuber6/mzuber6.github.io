@@ -15,7 +15,7 @@ To start this weeks technical experiments I tried to get Photon to work so I cou
 <br>Additionally I adjusted the Sniper(long-range). I added in raycasting to fix bullets missing. I also gave the AI the ability to use any weapon. I added the ability to show different weapon types in the pause menu.
 <br> ![](https://i.imgur.com/J9P4eJk.gif)
 <br>I brainstormed new analytics I can use to change the game as I play as well. The first is the type of weapon being used. If a player is only using short range weapons, find a way to disable this weapon? Maybe ammo runs low and game supplies less if you are using it a ton and your other weapons have lots of ammo. Another thing to look into is weapon drops and who picks them up. Is there a way we can drop loot in varying ways? Lastly, as Nathan mentioned, most companies will look at data concerning where players are dying often and make changes. These changes usually happen in the form of game updates, is there a way I can implement an algorithm that adjusts the map while the game is going?
-
+<br> ![](https://i.imgur.com/nw8okq8.png)
 
 Time Log:
 <br>Tuesday: 20 minutes- Planning for interview
