@@ -19,6 +19,6 @@ Time Log:
 <br>Wednesday: 30 min- Planning for interview
 <br>Thursday: 2 hours- Planning for interview, interview, summarizing interview, coming up with a plan to solve issues addressed
 <br>Friday: 3 hours- Finding contacts and messaging them
-<br>Saturday: 1 hour- Map work
+<br>Saturday: 2 hours- Map work
 <br>Sunday: 0 min
 <br>Monday: 0 min
