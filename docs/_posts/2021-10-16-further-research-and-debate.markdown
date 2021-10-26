@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interview's and Extra Research"
+title:  "Interview and Extra Research"
 date:   2021-10-16 17:02:41 -0400
 categories: jekyll update
 ---
