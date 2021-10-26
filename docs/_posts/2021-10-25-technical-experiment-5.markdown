@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Technical Experiment 5"
-date:   2021-09-06 17:02:41 -0400
+date:   2021-10-25 17:02:41 -0400
 categories: jekyll update
 ---
 
