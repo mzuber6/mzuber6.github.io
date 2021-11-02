@@ -13,7 +13,6 @@ I started this week out by fixing numerous bugs in my code. There were some slig
 <br>I then developed AI teammates that wander around the player. The AI stays within a distance of 25 but is constantly roaming. When an enemy is spotted they will target them. If the teammate doesn't have an enemy to target it will return to the player. 
 <br>![](https://i.imgur.com/M5vNt56.gif)
 <br>I implemented the infection style game mode and made it so when the player or teammates die, they join the Alien team. Additionally I designed a simple UI that shows player health, and teammate health. This way the player knows when their teammates are about to die. I do want to add in player names above the teammates so that the player can tell which health corresponds to which ally and where the ally is. 
-<br>![](https://i.imgur.com/lkiAMnO.png)
 <br>![](https://i.imgur.com/EvCUE2N.gif)
 <br>Time Log:
 <br>Tuesday: 0 hours
