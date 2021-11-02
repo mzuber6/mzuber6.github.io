@@ -18,7 +18,7 @@ I started this week out by fixing numerous bugs in my code. There were some slig
 <br>Tuesday: 0 hours
 <br>Wednesday: 0 hours
 <br>Thursday: 0 hours
-<br>Friday: 1 hour- Bug fixes
+<br>Friday: 0 hours
 <br>Saturday: 6 hours- Bug fixes, enemy AI, and attempted to work on ship crashing
 <br>Sunday: 3 hours- Teammate AI
 <br>Monday: 4 hours- Infection style game mode, UI, and bug fixes
