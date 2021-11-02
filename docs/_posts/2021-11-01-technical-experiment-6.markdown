@@ -9,12 +9,12 @@ I started this week out by fixing numerous bugs in my code. There were some slig
 <br>I also updated the spawn points and made it so that when selecting a new spawn point, the game raycasts from the new point to the player to verify that the player can not see the enemy spawn point on first use.
 <br>
 <br>Next, I worked on the game play itself. To begin I gave the enemies a way to randomly select locations on the map to travel to. The enemies will walk around the map now looking for the player until they spot them. If the enemy loses sight of the player, it will travel to the last known location and if the player is not found will begin searching the map again. Additionally, I began working on the ship crashing but stumbled across multiple bugs when doing so. Selecting a location for the ship to crash has been the main issue, and I need to brainstorm how I would like to approach this next week.
-<br>
+<br>![](https://i.imgur.com/0FZCNVT.gif)
 <br>I then developed AI teammates that wander around the player. The AI stays within a distance of 25 but is constantly roaming. When an enemy is spotted they will target them. If the teammate doesn't have an enemy to target it will return to the player. 
-<br>
+<br>![](https://i.imgur.com/M5vNt56.gif)
 <br>I implemented the infection style game mode and made it so when the player or teammates die, they join the Alien team. Additionally I designed a simple UI that shows player health, and teammate health. This way the player knows when their teammates are about to die. I do want to add in player names above the teammates so that the player can tell which health corresponds to which ally and where the ally is. 
-<br>
-<br>
+<br>![](https://i.imgur.com/lkiAMnO.png)
+<br>![](https://i.imgur.com/EvCUE2N.gif)
 <br>Time Log:
 <br>Tuesday: 0 hours
 <br>Wednesday: 0 hours
