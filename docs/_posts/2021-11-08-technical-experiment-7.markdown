@@ -10,7 +10,7 @@ I started this week out by messaging a few people on LinkedIn to see if they wer
 <br>![](https://i.imgur.com/2Hum3dr.png)
 <br>Next I implemented the player respawn mechanic that turns the player into an enemy. This allows the game to be a true infection mode game and not just end when the player dies. I also completed the game loop and implemented a game over scene for when the last "Ally" or inhabitant of the planet dies. Additionally I implemented a highscore that is displayed on the end screen. Players and CPU get points by getting kills.
 <br>![](https://i.imgur.com/gMlq5Ya.gif)
-<br>I then spent the majority of the week fixing multiple bugs that popped up in my build. You can download to play my first build [here for Windows](https://drive.google.com/file/d/1ilBDF6FvHAyty5lJK7km3AYkizILytrq/view?usp=sharing) or [here for Apple](), though it is not bug free and has a few flaws.
+<br>I then spent the majority of the week fixing multiple bugs that popped up in my build. You can download to play my first build [here for Windows](https://drive.google.com/file/d/1ilBDF6FvHAyty5lJK7km3AYkizILytrq/view?usp=sharing) or [here for Apple](https://drive.google.com/file/d/1BgntlaXyM74K0rKjRcmFXTlGXWOOS_2U/view?usp=sharing), though it is not bug free and has a few flaws.
 
 <br>Damage * Rate of fire
 <br>Time Log:
