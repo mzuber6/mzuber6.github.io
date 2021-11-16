@@ -14,7 +14,6 @@ I started this week out by messaging a few people on LinkedIn to see if they wer
 <br>
 <br>Next week I would like to work on weapon balancing, fix all the bugs I can find, and then I'd like to add in a shotgun type weapon.
 
-<br>Damage * Rate of fire
 <br>Time Log:
 <br>Tuesday: 30 minutes- Messaged stakeholders on LinkedIn
 <br>Wednesday: 0 hours
