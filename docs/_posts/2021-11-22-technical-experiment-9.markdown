@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Technical Experiment #9"
-date:   2021-11-15 17:02:41 -0400
+date:   2021-11-22 17:02:41 -0400
 categories: jekyll update
 ---
 I started this week by implementing a crouching feature. This way the player will be encouraged to crouch and camp a little more. You can crouch by pressing in the Z key, though I will be adjusting the key bindings this next week.
